@@ -39,12 +39,12 @@ Can the least powerful person on a restaurant team see how the tip rule counts t
 
 **Decision 2: AI suggestion rejected (05-market-scan.md): lead with "34% longer" retention and "only tip platform fully compliant".** Options: use as written; hedge it; leave out. Criteria: traceable to the pack; the brief bans unsourced statistics and legal claims. "No sources were attached", so neither can be checked. I used the pilot's own figures. A primary source and a legal view would change my mind.
 
-**Bias: I almost submitted the report without cross checking the figures that the AI agent used in making the landing page and I believed it, trusting the AI was too readly was my bias but before submitting I was cross checking the assignment and noticed I didn't checked that part, so I opened the data folder and from there I cross checked all the figures that AI used and they were correct. Commit hash - 03aa4b986750dc8913e5e72d63e03f5d414ebe63**
+**Bias: I almost submitted the report without cross checking the figures that the AI agent used in making the landing page and I believed it, trusting the AI too readily was my bias but before submitting I was cross checking the assignment and noticed I hadn't checked that part, so I opened the data folder and from there I cross checked all the figures that AI used and they were correct. Commit hash - 03aa4b986750dc8913e5e72d63e03f5d414ebe63**
 
 ## Part 4c: The Struggle, without AI
 
 **I tried to understand the whole assignment and tried to create a workflow, but the AI shared a complex structure. So, I went back to the CA pdf and read it carefully and made a structure for me, but the AI also helped. 
-While working, the app that claude generated was blank and it had nothing, so I had to ask multiple times to claude to correct it. I also struggle with making a good layout as it seems that AI had some fixed or already stored layouts and colour preferences, that it was not able to change easily, so I had to direct claude and needed to work with him to implement my idea and create a nice landing page and app. 
+While working, the app that claude generated was blank and it had nothing, so I had to ask multiple times to claude to correct it. I also struggled with making a good layout as it seems that AI had some fixed or already stored layouts and colour preferences, that it was not able to change easily, so I had to direct claude and needed to work with him to implement my idea and create a nice landing page and app. 
 Going forward I will not go and put everything in one go and I will work with the AI in steps to get better, clearer answers.**
 
 ## Assumptions and limits
